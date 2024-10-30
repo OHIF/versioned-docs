@@ -14,36 +14,36 @@ installer from [OHIF](https://ohif.org)
    double-click the installer to install the application.
 2. When you start the installer, setup wizard will pop up.
 
-![Installer Initial](../../../assets/img/LesionTracker/LT_Installer_Initial.png)
+![Installer Initial](../assets/img/LesionTracker/LT_Installer_Initial.png)
 
 3. Click **Install** to start the installation.
 4. LesionTracker will install prerequisites if they do not exist before
    installing the application.
 
-![Prerequisites](../../../assets/img/LesionTracker/LT_Installer_Prerequisites.png)
+![Prerequisites](../assets/img/LesionTracker/LT_Installer_Prerequisites.png)
 
 5. Click the **Next** if you accept the installation.
 
-![After Prerequisites](../../../assets/img/LesionTracker/LT_Installer_After_Prerequisites.png)
+![After Prerequisites](../assets/img/LesionTracker/LT_Installer_After_Prerequisites.png)
 
 6. Read the license agreement, and if you agree, click **I accept the terms in
    the License Agreement** and then click the **Next**.
 
-![License Aggrement](../../../assets/img/LesionTracker/LT_Installer_License_Aggrement.png)
+![License Aggrement](../assets/img/LesionTracker/LT_Installer_License_Aggrement.png)
 
 7. Select a location to install LesionTracker and click the **Next** to
    continue.
 
-![Select Location](../../../assets/img/LesionTracker/LT_Installer_Select_Location.png)
+![Select Location](../assets/img/LesionTracker/LT_Installer_Select_Location.png)
 
 8. Click the **Install** to start the installation and the installation will be
    started.
 
-![Launch Installation](../../../assets/img/LesionTracker/LT_Installer_Launch_Installation.png)
+![Launch Installation](../assets/img/LesionTracker/LT_Installer_Launch_Installation.png)
 
 9. Click **Finish** to complete the installation.
 
-![Finish](../../../assets/img/LesionTracker/LT_Installer_Finish.png)
+![Finish](../assets/img/LesionTracker/LT_Installer_Finish.png)
 
 10. When the installation is done,
 
@@ -55,7 +55,7 @@ installer from [OHIF](https://ohif.org)
   - It will launch computer's default browser and enables to upload studies to
     Orthanc Server if you click 'http://localhost:8042'
 
-  ![Final](../../../assets/img/LesionTracker/LT_Installer_Final.png)
+  ![Final](../assets/img/LesionTracker/LT_Installer_Final.png)
 
 - Also, LesionTracker installer will create two shortcuts named LesionTracker
   and Orthanc Server on the Desktop.
@@ -65,11 +65,11 @@ installer from [OHIF](https://ohif.org)
   - It will launch computer's default browser and enables to upload studies to
     Orthanc Server if you click Orthanc Server application.
 
-  ![Desktop Shortcuts](../../../assets/img/LesionTracker/LT_Installer_Desktop_Shortcuts.png)
+  ![Desktop Shortcuts](../assets/img/LesionTracker/LT_Installer_Desktop_Shortcuts.png)
 
 11. Click the **Done** and **Close** to close the installation window.
 
-![Installation Successful](../../../assets/img/LesionTracker/LT_Installer_Successful.png)
+![Installation Successful](../assets/img/LesionTracker/LT_Installer_Successful.png)
 
 12. After the installation is completed,
 
@@ -87,7 +87,7 @@ installer from [OHIF](https://ohif.org)
   - **Turn On Auto Services.exe:** Configures to start LesionTracker, MongoDB
     and Orthanc services automatically when Windows starts up.
 
-  ![Services](../../../assets/img/LesionTracker/LT_Installer_Services.png)
+  ![Services](../assets/img/LesionTracker/LT_Installer_Services.png)
 
 ## Uninstall
 
@@ -98,11 +98,11 @@ installer from [OHIF](https://ohif.org)
 5. Find the LesionTracker in programs list and click LesionTracker, then click
    the **Uninstall**.
 
-![Uninstall](../../../assets/img/LesionTracker/LT_Installer_Uninstall.png)
+![Uninstall](../assets/img/LesionTracker/LT_Installer_Uninstall.png)
 
 6. Click **Uninstall** from the LesionTracker Setup dialog.
 
-![Launch Uninstall](../../../assets/img/LesionTracker/LT_Installer_Launch_Uninstall.png)
+![Launch Uninstall](../assets/img/LesionTracker/LT_Installer_Launch_Uninstall.png)
 
 When the uninstallation is done, the uninstallation will remove;
 

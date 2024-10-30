@@ -102,8 +102,8 @@ module.exports = {
         hideOnScroll: false,
         logo: {
           alt: "OHIF Logo",
-          src: "/img/ohif-logo-light.svg",
-          srcDark: "/img/ohif-logo.svg",
+          src: "../assets/img/ohif-logo-light.svg",
+          srcDark: "../assets/img/ohif-logo.svg",
         },
         items: [
           {
